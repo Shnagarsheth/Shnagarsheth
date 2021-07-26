@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shnagarsheth, PhD in Control Systems.
+- 👋 Hi, I’m @Shnagarsheth
 - 👀 I’m interested in Embedded Control System's firmware development for IoT projects and Control System's Research.
 - 🌱 I’m actively gaining knowledge about machine learning, which facilitates learning-based control design and my multi-disciplinary research skills to thrive for an upcoming industrial revolution.
 - 💞️ I’m looking to collaborate on projects based on ESP32/8266 -- STM32 Microcontroller's, process control research projects. 
